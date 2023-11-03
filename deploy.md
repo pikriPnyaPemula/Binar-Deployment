@@ -5,3 +5,4 @@ Step by Step Using Deploy to Railway:
 4. Buat dan simpan project token untuk kedua environment didalam github secrets
 5. Simpan service id didalam github secrets
 6. Buat script untuk proses deployment secara otomatis
+7. set up env --> Railway --> Variables
