@@ -1,3 +1,6 @@
+###test
+GET http://localhost:3000/
+
 ### Register (Buat Akun + Authentication)
 POST http://localhost:3000/api/v1/auth/register
 Content-Type: application/json
